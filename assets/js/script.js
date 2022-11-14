@@ -72,6 +72,12 @@ const app = {
       path: "./assets/music/Lâu Đài Tình Ái (Disco Version) - JSol X Ducpham (320kp).mp3",
       image: "",
     },
+    {
+      name: "Co-Dau-Ai-Ngo-Remix-Cam-Cukak-Remix",
+      singer: "Cukak Remix",
+      path: "./assets/music/Co-Dau-Ai-Ngo-Remix-Cam-Cukak-Remix.mp3",
+      image: "",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
