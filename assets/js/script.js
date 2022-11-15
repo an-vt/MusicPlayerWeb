@@ -78,6 +78,12 @@ const app = {
       path: "./assets/music/Co-Dau-Ai-Ngo-Remix-Cam-Cukak-Remix.mp3",
       image: "",
     },
+    {
+      name: "ExsHateMe",
+      singer: "BRay Masew Amee",
+      path: "./assets/music/ExsHateMe-BRayMasewAMee-5878683.mp3",
+      image: "",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
