@@ -84,6 +84,18 @@ const app = {
       path: "./assets/music/ExsHateMe-BRayMasewAMee-5878683.mp3",
       image: "",
     },
+    {
+      name: "Tro Dua",
+      singer: "Quang Dang Tran",
+      path: "./assets/music/Tro-Dua-Remix-Quang-Dang-Tran-Cukak-Remix.mp3",
+      image: "",
+    },
+    {
+      name: "ChayVeKhocVoiAnhCukakRemix",
+      singer: "ERIK",
+      path: "./assets/music/ChayVeKhocVoiAnhCukakRemix-ERIK-7214880.mp3",
+      image: "",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
