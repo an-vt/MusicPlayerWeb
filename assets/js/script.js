@@ -96,6 +96,12 @@ const app = {
       path: "./assets/music/ChayVeKhocVoiAnhCukakRemix-ERIK-7214880.mp3",
       image: "",
     },
+    {
+      name: "Marry You",
+      singer: "Bruno Mars",
+      path: "./assets/music/Marry You - Bruno Mars.mp3",
+      image: "",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
