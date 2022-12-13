@@ -102,6 +102,12 @@ const app = {
       path: "./assets/music/Marry You - Bruno Mars.mp3",
       image: "",
     },
+    {
+      name: "ChuyenDoiTa",
+      singer: "EmceeL - DaLAB",
+      path: "./assets/music/ChuyenDoiTa-EmceeLDaLAB.mp3",
+      image: "",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
